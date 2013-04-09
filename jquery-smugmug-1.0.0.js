@@ -4,11 +4,12 @@
 		alert("Smugmug Rocks");
 	}
 	
-	$.smugmug.APIVersion = "1.2.0";	
+	$.smugmug.APIVersion = "1.3.0";	
 	$.smugmug.endPoint = {
 		"1.2.0": "http://api.smugmug.com/hack/json/1.2.0/",
 		"1.2.1": "http://api.smugmug.com/services/api/json/1.2.1/",
-		"1.2.2": "http://api.smugmug.com/services/api/json/1.2.2/"
+		"1.2.2": "http://api.smugmug.com/services/api/json/1.2.2/",
+		"1.3.0": "http://api.smugmug.com/services/api/json/1.3.0/"
 	};
 	
 	$.smugmug.APIKey = "RXcw7ywveg9pEj1n6HBJfuDXqsFsx4jw";
